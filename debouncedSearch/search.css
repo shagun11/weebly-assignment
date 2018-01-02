@@ -1,0 +1,20 @@
+#search-result {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#search-result > li {
+  border: 1px solid #e0e0e0;
+  border-width: 0 1px 1px;
+  padding: 5px;
+  background: #fff;
+  width: 310px;
+  margin-left: 1px;
+}
+
+#search-input {
+  width: 300px;
+  padding: 10px;
+}
+
